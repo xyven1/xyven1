@@ -8,7 +8,7 @@
       srcset="https://github-readme-stats-xyven1s-projects.vercel.app/api?username=xyven1&show_icons=true&show=prs_merged&hide_rank=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=280 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&show=prs_merged&theme=dark" />
+    <img height=280 align="center" src="https://github-readme-stats-xyven1s-projects.vercel.app/api?username=xyven1&show_icons=true&show=prs_merged&hide_rank=true&theme=dark" />
   </picture>
 </a>
 <a href="https://github.com/xyven1/github-readme-stats">
